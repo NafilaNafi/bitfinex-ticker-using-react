@@ -22,7 +22,6 @@ const Trades = ({ ticker }) => {
             <div className="btc">
             <img className="btc-logo" style={{ width: "40px", height: "50px" }} src={"https://www.bitfinex.com/assets/BTC-alt-1ca8728fcf2bc179dfe11f9a0126bc303bee888bff8132c5ff96a4873cf9f0fb.svg"} alt="Bitcoin" />
     </div>
-            
           </td>
           <td className="col-info" rowSpan="1" style={{ width: "170px" }}>
             <h5>
