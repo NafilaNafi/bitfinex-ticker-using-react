@@ -1,0 +1,18 @@
+.App {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #15232c;
+  color: #fff;
+  width: 335px;
+  height: 131px;
+  padding: 2px;
+}
+
+body {
+  font-size: 12px;
+  width: auto;
+  display: block;
+
+}
